@@ -1,0 +1,238 @@
+{
+    "guideData": {
+      "adsController": 
+        {
+          "networkAds": "ironsource",
+          "networkId": "",
+          "admobId": "",
+          "bannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+          "interstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+          "nativeAdmob": "ca-app-pub-3940256099942544/2247696110"
+        },
+
+        "appColors":{
+            "buttonColor" : "#15156F",
+            "buttonTextColor" : "#E32B15",
+            "loaderColor" : "#E32B15",
+            "bigTextColor": "#000000",
+            "smallTextColor" : "#336923",
+            "backgroundImage": "background link",
+            "backgroundColor": "#ffffff"
+        },
+
+        "textGuide" : {
+            "goodPractice" : "goodPractice",
+            "howToUse" : "howToUse",
+            "features" : "features",
+            "finalAdvice" : "finalAdvice",
+            "highlights" : "highlights"
+        },
+
+        "appLinks" : {
+            "moreAppsLink" : "",
+            "rateUsLink" : "",
+            "privacyLink" : "",
+            "pubApp": [
+                {
+                    "screenName" : "HowToUse",
+                    "appName" : "app name",
+                    "appDescription" : "app description",
+                    "appIcon" : "app icon link",
+                    "pubAppLink" : ""
+                },
+                {
+                    "screenName" : "",
+                    "appName" : "",
+                    "appDescription" : "",
+                    "appIcon" : "",
+                    "pubAppLink" : ""
+                }
+            ]
+            
+        },
+  
+      "screens": [
+        {
+            "type": "Screen1",
+            "bigText": "'big text",
+            "smallText": "small text",
+            "image" : "image link",
+            "isNative" : false,
+            "isBanner" : false,
+            "isInterstitial" : false,
+            "adNative": false,
+            "adBanner" : true,
+            "adInterstitial" : false
+        },
+        {
+            "type": "Gender",
+            "bigText": "ARE YOU MALE OR FEMALE ?",
+            "smallText": "",
+            "image" : "",
+            "isNative" : false,
+            "isBanner" : true,
+            "isInterstitial" : false,
+            "adNative": false,
+            "adBanner" : false,
+            "adInterstitial" : true
+        },
+        {
+            "type": "Network",
+            "bigText": "ARE YOU USING WIFI OR MOBILE DATA ?",
+            "smallText": "",
+            "image" : "",
+            "isNative" : false,
+            "isBanner" : false,
+            "isInterstitial" : false,
+            "adNative": true,
+            "adBanner" : true,
+            "adInterstitial" : false
+        },
+        {
+            "type": "Age",
+            "bigText": "TELL US YOUR AGE ?",
+            "smallText": "smallText",
+            "image" : "",
+            "isNative" : false,
+            "isBanner" : false,
+            "isInterstitial" : false,
+            "adNative": true,
+            "adBanner" : true,
+            "adInterstitial" : false
+        },
+        {
+            "type": "Loader1",
+            "bigText": "bigText",
+            "smallText": "Hang in there! The Data is on the way!",
+            "image" : "",
+            "isNative" : false,
+            "isBanner" : false,
+            "isInterstitial" : false,
+            "adNative": true,
+            "adBanner" : true,
+            "adInterstitial" : false
+        },
+        {
+            "type": "Screen4",
+            "bigText": "bigText",
+            "smallText": "smallText",
+            "image" : "",
+            "isNative" : false,
+            "isBanner" : false,
+            "isInterstitial" : false,
+            "adNative": true,
+            "adBanner" : true,
+            "adInterstitial" : false
+        },
+        {
+            "type": "Screen5",
+            "bigText": "bigText",
+            "smallText": "smallText",
+            "image" : "",
+            "isNative" : false,
+            "isBanner" : false,
+            "isInterstitial" : false,
+            "adNative": true,
+            "adBanner" : true,
+            "adInterstitial" : false
+        },
+        {
+            "type": "Screen6",
+            "bigText": "bigText",
+            "smallText": "smallText",
+            "image" : "",
+            "isNative" : false,
+            "isBanner" : false,
+            "isInterstitial" : false,
+            "adNative": true,
+            "adBanner" : true,
+            "adInterstitial" : false
+        },
+        {
+            "type": "Screen7",
+            "bigText": "bigText",
+            "smallText": "smallText",
+            "image" : "",
+            "isNative" : false,
+            "isBanner" : false,
+            "isInterstitial" : false,
+            "adNative": true,
+            "adBanner" : true,
+            "adInterstitial" : false
+        },
+        {
+            "type": "Loader2",
+            "bigText": "bigText",
+            "smallText": "Hang in there! The Data is on the way!",
+            "image" : "",
+            "isNative" : false,
+            "isBanner" : false,
+            "isInterstitial" : false,
+            "adNative": true,
+            "adBanner" : true,
+            "adInterstitial" : false
+        },
+        {
+            "type": "GoodPractice",
+            "bigText": "bigText",
+            "smallText": "smallText",
+            "image" : "",
+            "isNative" : false,
+            "isBanner" : false,
+            "isInterstitial" : false,
+            "adNative": false,
+            "adBanner" : true,
+            "adInterstitial" : false
+        },
+        {
+            "type": "HowToUse",
+            "bigText": "bigText",
+            "smallText": "smallText",
+            "image" : "",
+            "isNative" : false,
+            "isBanner" : false,
+            "isInterstitial" : false,
+            "adNative": true,
+            "adBanner" : true,
+            "adInterstitial" : false
+        },
+        {
+            "type": "Highlight",
+            "bigText": "bigText",
+            "smallText": "smallText",
+            "image" : "",
+            "isNative" : false,
+            "isBanner" : false,
+            "isInterstitial" : false,
+            "adNative": true,
+            "adBanner" : true,
+            "adInterstitial" : false
+        },
+        {
+            "type": "Feature",
+            "bigText": "bigText",
+            "smallText": "smallText",
+            "image" : "",
+            "isNative" : false,
+            "isBanner" : false,
+            "isInterstitial" : false,
+            "adNative": true,
+            "adBanner" : true,
+            "adInterstitial" : false
+        },
+        {
+            "type": "FinalAdvice",
+            "bigText": "bigText",
+            "smallText": "smallText",
+            "image" : "",
+            "isNative" : false,
+            "isBanner" : false,
+            "isInterstitial" : false,
+            "adNative": true,
+            "adBanner" : true,
+            "adInterstitial" : false
+        }
+      ]
+  
+    }
+  }
