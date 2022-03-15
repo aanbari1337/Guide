@@ -7,7 +7,9 @@
           "admobId": "",
           "bannerAdmob": "ca-app-pub-3940256099942544/6300978111",
           "interstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-          "nativeAdmob": "ca-app-pub-3940256099942544/2247696110"
+          "nativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+           "bannerFacebook":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+           "interstitialFacebook": "" 
         },
 
         "appColors":{
