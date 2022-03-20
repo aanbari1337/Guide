@@ -3,7 +3,9 @@
         "adsController": 
         {
           "networkAds": "ironSource",
-          "appKey": "140396ca1"
+          "appKey": "140396ca1",
+          "interstitielAdmob": "",
+          "nativeAdmob": ""
         },
         "items":[
             {
