@@ -7,6 +7,26 @@
           "interstitielAdmob": "ca-app-pub-3940256099942544/1033173712",
           "nativeAdmob": "ca-app-pub-3940256099942544/2247696110"
         },
+        "soulmateScreen":{
+            "item":[
+                "You just know it",
+                "They're your best friend",
+                "You feel a sense of calm when around them",
+                "You have extreme empathy for them",
+                "You respect each other",
+                "You balance each other out",
+                "You agree about the important things",
+                "You share the same life goals",
+                "You challenge each other",
+                "You can totally be yourself",
+                "You fight for the relationship",
+                "You understand each other's emotional languages",
+                "You're each other's biggest fans",
+                "You feel each other's pain",
+                "There's intense chemistry",
+                "You just want to be around each other"
+            ]
+        },
         "items":[
             {
                 "tip":"How to go from Tinder to Video Calling",
