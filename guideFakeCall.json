@@ -1,12 +1,11 @@
 {
-    "guideData":{
-        "adsController": 
-        {
-          "networkAds": "ironSource",
-          "appKey": "",
-          "interstitielAdmob": "",
-          "nativeAdmob": "",
-          "bannerAdmob": ""
-        },
-    }
+   "guideData":{
+      "adsController":{
+         "networkAds":"ironSource",
+         "appKey":"",
+         "interstitielAdmob":"",
+         "nativeAdmob":"",
+         "bannerAdmob":""
+      }
+   }
 }
