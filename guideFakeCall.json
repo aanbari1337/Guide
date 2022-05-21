@@ -3,9 +3,9 @@
       "adsController":{
          "networkAds":"ironSource",
          "appKey":"",
-         "interstitielAdmob":"",
-         "nativeAdmob":"",
-         "bannerAdmob":""
+         "interstitielAdmob":"ca-app-pub-3488339382161239/4463428348",
+         "nativeAdmob":"ca-app-pub-3488339382161239/9337562640",
+         "bannerAdmob":"ca-app-pub-3488339382161239/5781461019"
       }
    }
 }
