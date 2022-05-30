@@ -4,9 +4,9 @@
         {
           "networkAds": "ironSource",
           "appKey": "",
-          "interstitielAdmob": "",
-          "nativeAdmob": "",
-          "bannerAdmob": ""
+          "interstitielAdmob": "ca-app-pub-9959669477236869/8663178172",
+          "nativeAdmob": "ca-app-pub-9959669477236869/8177174588",
+          "bannerAdmob": "ca-app-pub-9959669477236869/1803337925"
         },
         "identifySoulmateScreen":{
             "item":[
